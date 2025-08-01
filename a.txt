@@ -1,0 +1,1 @@
+Write a function that takes a list as input and returns the product of all elements Handle the Type Error and value error exceptions
